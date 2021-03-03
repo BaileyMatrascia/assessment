@@ -222,7 +222,12 @@ TODO: add description for each assessment level for this skill.
 
 * Participation
 
-TODO: add description for each assessment level for this skill.
+None: does not show up to group at all and zero participation with zero communication
+Inadequate: minimum participation in showing up for groups and little to no work with little to no communication
+Adequate: participates with group and does work communicates if does not show still makes up for work
+Good: participates and communicates well with group and does work with effort and highly communicative. Their part works well and gets the job done.
+Excellent: participates and communicates clearly and efficiently. Does great work with effort and adaptable. Their part efficent and flows seemlessly.
+
 
 * Conduct
 
