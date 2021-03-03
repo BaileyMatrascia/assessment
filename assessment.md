@@ -243,7 +243,12 @@ TODO: add description for each assessment level for this skill.
 
 * Conflicts
 
-TODO: add description for each assessment level for this skill.
+None: zero resolve. Refusal to work out conflict. Yelling and verbal fighting turns into physical fighting. Insults and criticisms that are personal and nothing to do with project. Sabbotaging the project to bring down other group members
+Inadequate:zero resolve. Refusal to work out conflict. Insulting and personal criticisms that have nothing to with project. Ignoring and demeaing group members intelligence.
+Adequate: Listening and communicating with group members and talk to professor for solutions
+Good: Being adaptable and work through conflict through communicating with group and talk to professor if needed.
+Excellent: coming up with an effective solution through communicating with group members and being adaptable. Holding self accountable and if needed talk to professor.
+
 
 * Infractions
 
