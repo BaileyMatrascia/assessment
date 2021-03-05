@@ -211,7 +211,7 @@ Excellent: Student attended 100% of meetings.
 * Deadlines
 
 None: This group member has no disregard for the deadline and ignored it.
-Inadequate: This group member acknowledged the deadline but did not manage their time to meet it. 
+Inadequate: This group member acknowledged the deadline but did not manage their time to meet it.
 Adequate: This group member acknowledged the deadline and managed their time to meet the deadline, but the work was sloppy and unorganized.
 Good: This group member kept a reminder of the deadline and managed their time to meet the deadline, and the work was orderly.
 Excellent: This group member kept constant reminders of the deadline and designated time every day to meet the deadline, asked for any extensions if needed, and their work was very clean and organized.
@@ -241,6 +241,7 @@ TODO: add description for each assessment level for this skill.
 TODO: add description for each assessment level for this skill.
 
 * Infractions
+
 
 TODO: add description for each assessment level for this skill.
 
